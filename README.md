@@ -16,3 +16,5 @@ idk
 ## Ting som må fikses
 alt jobb jobb jobb
 
+## Hvor langt er det kommet
+Ikke startet
