@@ -1,4 +1,6 @@
-# Prusa 3D printer
+## Prusa 3D printer
+<img src="https://i.imgur.com/nememGS.jpg" width="150">
+
 
 ## Deltaker
 - Krstian med K
