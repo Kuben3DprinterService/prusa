@@ -1,7 +1,6 @@
 # Prusa 3D printer
 
 ## Deltaker
-- skriv navn her
 Krstian med K
 
 ## Status
