@@ -11,5 +11,4 @@ idk
 idk
 
 ## Ting som må fikses
-alt jobb jobb jobb
-
+idk
