@@ -1,5 +1,5 @@
 ## Prusa 3D printer
-<img src="https://i.imgur.com/nememGS.jpg" width="150">
+<img src="https://i.imgur.com/nememGS.jpg" width="250">
 
 
 ## Deltaker
