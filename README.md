@@ -1,7 +1,8 @@
 # Prusa 3D printer
 
 ## Deltaker
-Krstian med K
+- Krstian med K
+- ViSaLearning (Viktor)
 
 ## Status
 Not working
@@ -11,4 +12,5 @@ idk
 idk
 
 ## Ting som må fikses
-idk
+alt jobb jobb jobb
+
