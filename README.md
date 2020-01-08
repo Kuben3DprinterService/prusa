@@ -5,6 +5,7 @@
 ## Deltaker
 - Krstian med K
 - ViSaLearning (Viktor)
+- Mitra
 
 ## Status
 Not working
