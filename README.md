@@ -6,8 +6,7 @@
 - Krstian med K
 - ViSaLearning (Viktor)
 - Mitra
-- Test
-
+- Test er slettet
 
 ## Status
 Not working
