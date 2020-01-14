@@ -3,7 +3,7 @@
 
 
 ## Deltaker
-- Krstian med K
+- Krstian P
 - ViSaLearning (Viktor)
 - Mitra
 
