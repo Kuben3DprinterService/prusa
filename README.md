@@ -15,7 +15,7 @@ Not working
 ## Specifikasjoner
 idk
 ## Mangende deler
-idk
+Fant en printeplate blandt reservedeler
 
 ## Ting som må fikses
 alt jobb jobb jobb
