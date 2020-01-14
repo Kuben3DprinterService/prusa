@@ -13,7 +13,7 @@
 ## Status
 Not working
 ## Manual?
-https://www.cooking-hacks.com/documentation/tutorials/3d-printer-step-by-step-tutorial-guide-prusa-it3/#software
+Uenig
 ## Specifikasjoner
 idk
 ## Mangende deler
