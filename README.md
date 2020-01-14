@@ -6,6 +6,8 @@
 - Krstian P
 - ViSaLearning (Viktor)
 - Mitra
+- Hassan
+- Vegar uten D
 
 
 ## Status
