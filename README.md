@@ -4,8 +4,7 @@
 
 ## Deltaker
 - Krstian P
-- ViSaLearning (Viktor)
-- Mitra
+- Viktor
 - Hassan
 - Vegar uten D
 
