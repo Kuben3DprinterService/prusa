@@ -11,8 +11,8 @@
 
 ## Status
 Not working
-## Manual?
-Uenig
+## Manual
+Not found
 ## Specifikasjoner
 idk
 ## Mangende deler
