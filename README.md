@@ -24,3 +24,6 @@ alt jobb jobb jobb
 
 ## Hvor langt er det kommet
 Ikke startet
+
+## Discord
+https://discord.gg/BqWzcU
