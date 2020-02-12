@@ -7,7 +7,7 @@
 - Viktor
 - Hassan
 - Vegar uten D
--Viet
+- Viet
 
 
 ## Status
