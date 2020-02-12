@@ -26,4 +26,4 @@ alt jobb jobb jobb
 Ikke startet
 
 ## Discord
-https://discord.gg/BqWzcU
+https://discord.gg/jFExjT
