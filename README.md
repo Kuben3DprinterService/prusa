@@ -3,7 +3,11 @@
 
 
 ## Deltaker
--
+- Krstian P
+- Viktor S
+- Hassan
+- Vegar uten D
+- Viet
 
 
 ## Status
