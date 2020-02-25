@@ -23,3 +23,4 @@ Ikke startet
 
 ## Discord
 https://discord.gg/jFExjT
+Viet Uy Nguyen Jeg skal banke kristian
