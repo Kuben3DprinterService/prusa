@@ -3,11 +3,19 @@
 
 
 ## Deltaker
+<<<<<<< HEAD
 - Krstian Pepe
 - Viktor S
 - Hassan
 - Vegar uten D
 - Viet har en stor D
+=======
+- Krstian P
+- Viktor S
+- Hassan
+- Vegar uten D
+- Viet
+>>>>>>> 5d9e135c7f22251e1271420de3cff93c8563a9aa
 
 
 ## Status
