@@ -8,7 +8,7 @@
 - Viktor S
 - Hassan
 - Vegar uten D
-- Viet har en stor D
+- Viet har en veldig lite  8====D
 =======
 - Krstian P
 - Viktor S
