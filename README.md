@@ -3,7 +3,6 @@
 
 
 ## Deltaker
-<<<<<<< HEAD
 - Krstian Pepe
 - Viktor S
 - Hassan
@@ -26,5 +25,3 @@ alt jobb jobb jobb
 ## Hvor langt er det kommet
 Ikke startet
 
-## Discord
-https://discord.gg/jFExjT
