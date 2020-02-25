@@ -8,14 +8,7 @@
 - Viktor S
 - Hassan
 - Vegar uten D
-- Viet har en veldig lite  8====D
-=======
-- Krstian P
-- Viktor S
-- Hassan
-- Vegar uten D
 - Viet
->>>>>>> 5d9e135c7f22251e1271420de3cff93c8563a9aa
 
 
 ## Status
