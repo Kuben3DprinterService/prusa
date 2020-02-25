@@ -4,7 +4,7 @@
 
 ## Deltaker
 - Krstian P
-- Viktor
+- Viktor S
 - Hassan
 - Vegar uten D
 - Viet
