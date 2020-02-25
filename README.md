@@ -3,7 +3,11 @@
 
 
 ## Deltaker
--
+- Krstian Pepe
+- Viktor S
+- Hassan
+- Vegar uten D
+- Viet har en stor D
 
 
 ## Status
@@ -23,4 +27,3 @@ Ikke startet
 
 ## Discord
 https://discord.gg/jFExjT
-Viet Uy Nguyen Jeg skal banke kristian
